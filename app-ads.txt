@@ -1,2 +1,3 @@
 google.com, pub-5779186418020846, DIRECT, f08c47fec0942fa0
-
+vungle.com, 69bbff258ce4c70eadd305dd, DIRECT, c107d686becd2d77
+ironsrc.com, 635529, DIRECT, 79929e88b2ba73bc
